@@ -1,0 +1,34 @@
+Created By            "livepwn"   and "1pwn"     
+
+#These Tools is especially design for Hackers, Pentesters, Bug Bounty Hunter, Ctf Players.
+#It provide all commands for web exploitation tools, and cryptography tools..
+
+1--Usagae: (Web.py)
+
+'This tool provide all commands of web exploitation tools which many hackers forget. Like you forget what was the command for gobuster, or dirb, 
+or subfinder . So this tool will provide all these.' 
+
+[Commands]: 
+
+#tools : show all tools
+
+-->livepwn(Web): tools
+
+#website: show all common website for recon.
+
+-->livepwn(Web): website
+
+#use any tool command by just copy, paste it. exp (You forget command of massdns tool so just type massdns in my tool and it will show.
+
+2--Usage: (Crpyto.py)
+
+'This tool provide all commands of cryptography tools, in this .py file there are many tools but only cryptography tools.
+I created this because as a Ctf player I forget many cryptography tools so you can learn them.'
+
+[Commands]:
+
+#tools : show all tools
+
+-->livepwn(Crypto): tools
+
+#Just use any name of tool which will preview after executing tools command in tool..
